@@ -1,0 +1,15 @@
+C:\Users\Engineer\Desktop\разработка\HW9\66\bin\Debug\net6.0\66.exe
+C:\Users\Engineer\Desktop\разработка\HW9\66\bin\Debug\net6.0\66.deps.json
+C:\Users\Engineer\Desktop\разработка\HW9\66\bin\Debug\net6.0\66.runtimeconfig.json
+C:\Users\Engineer\Desktop\разработка\HW9\66\bin\Debug\net6.0\66.dll
+C:\Users\Engineer\Desktop\разработка\HW9\66\bin\Debug\net6.0\66.pdb
+C:\Users\Engineer\Desktop\разработка\HW9\66\obj\Debug\net6.0\66.csproj.AssemblyReference.cache
+C:\Users\Engineer\Desktop\разработка\HW9\66\obj\Debug\net6.0\66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engineer\Desktop\разработка\HW9\66\obj\Debug\net6.0\66.AssemblyInfoInputs.cache
+C:\Users\Engineer\Desktop\разработка\HW9\66\obj\Debug\net6.0\66.AssemblyInfo.cs
+C:\Users\Engineer\Desktop\разработка\HW9\66\obj\Debug\net6.0\66.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\Desktop\разработка\HW9\66\obj\Debug\net6.0\66.dll
+C:\Users\Engineer\Desktop\разработка\HW9\66\obj\Debug\net6.0\refint\66.dll
+C:\Users\Engineer\Desktop\разработка\HW9\66\obj\Debug\net6.0\66.pdb
+C:\Users\Engineer\Desktop\разработка\HW9\66\obj\Debug\net6.0\66.genruntimeconfig.cache
+C:\Users\Engineer\Desktop\разработка\HW9\66\obj\Debug\net6.0\ref\66.dll
